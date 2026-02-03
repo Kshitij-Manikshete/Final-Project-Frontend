@@ -28,7 +28,7 @@ The project utilizes the following web technologies:
 - **CSS3**: For styling the web pages, including complex animations and effects.
 - **JavaScript**: For adding interactivity to the web application.
 
-## Complex CSS Techniques
+## Complex CSS Techniques test
 
 ### Login Page Following Effect
 One of the standout features of the web application is the login page following effect, created using CSS pseudo-elements.
